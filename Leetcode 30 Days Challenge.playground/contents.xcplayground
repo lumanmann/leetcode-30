@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw'>
+    <pages>
+        <page name='01.Single Number '/>
+        <page name='02.Happy Number '/>
+        <page name='03.Maximum Subarray '/>
+        <page name='04. Move Zeros'/>
+        <page name='MinStack'/>
+        <page name='14.Perform String Shifts'/>
+        <page name='13.Contiguous Array'/>
+        <page name='15.Product of Array Except Self'/>
+        <page name='16. Valid Parenthesis String'/>
+        <page name='17.Number of Islands'/>
+        <page name='  Minimum Path Sum'/>
+    </pages>
+</playground>
